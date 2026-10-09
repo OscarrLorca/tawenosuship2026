@@ -23,3 +23,50 @@ img {
 body {
   font-size: 1.6rem;
 }
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-items{
+  display: flex;
+  justify-content: space-between;
+}
+.nav items li{
+  display: flex;
+  list-style: none;
+  color: black;
+}
+.container{
+  max-width: 120rem;
+}
+
+.texto-rojo{
+  color: #c0392b;
+  max-width: 4rem;
+}
+
+.texto-blan{
+  color: #ffffff;
+  max-width: 4rem;
+}
+
+.boton-rojo{
+  border: 1.4rem solid #ffffff;
+  height: 3rem;
+  text-decoration: none;
+  padding: .6rem ;
+  background-color: #c0392b;
+  border-radius: 1rem 2.4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.productos{
+
+}
+
+.imagen{
+
+}
